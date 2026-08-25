@@ -5,7 +5,7 @@ Google Colab para desarrollar un modelo RUSLE simple
 
 ## ⚠️ Nota: este es un notebook de ejemplo con fines educativos
 
-Este notebook fue desarrollado como **material de clase** para el curso AGP3141, con el objetivo de mostrar cómo calcular los factores de la ecuación RUSLE (Erosividad R, Erodabilidad K, entre otros) usando datos públicos y Google Earth Engine.
+Este notebook fue desarrollado como **material de clase** para el curso Conservación de Suelos y Gestión del Carbono, con el objetivo de mostrar cómo calcular los factores de la ecuación RUSLE (Erosividad R, Erodabilidad K, entre otros) usando datos públicos y Google Earth Engine.
 
 **No debe usarse como fuente definitiva para estudios técnicos, reportes oficiales o toma de decisiones sin validación adicional.** Los valores obtenidos son aproximaciones basadas en datasets globales de resolución media (250 m – 5.5 km), y deben contrastarse con datos locales/medidos en campo cuando el objetivo sea un análisis real de erosión.
 
