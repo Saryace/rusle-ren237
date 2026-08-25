@@ -1,5 +1,6 @@
 # RUSLE usando GEE
 Google Colab para desarrollar un modelo RUSLE simple
+Inspirado en el trabajo de Nicolás Riveras, en especial su repositorio [RUSLE](https://github.com/nriveras/RUSLE)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Saryace/rusle-ren237/blob/main/rusle_ren237.ipynb)
 
